@@ -21,7 +21,7 @@
 
 | Privilege | Limitation |
 |------------|-------------|
-| Act as PIC for non-commercial flight | ❌ No compensation or hire (不得有偿飞行) |
+| Act as PIC for non-commercial flight | No hire |
 | Share operating expenses | Only **pro rata share** of fuel, oil, airport, rental fees |
 | Charitable / Nonprofit / Community event flights | Under §91.146, FAA approval required |
 | BasicMed operations | ≤ 6 passengers + pilot, ≤ 12,500 lbs, ≤ 250 KIAS |
@@ -232,7 +232,7 @@ Ref: [Aviation SMS Risk Matrix Explanation](https://aviationsafetyblog.asms-pro.
 
 ---
 
-## ⚙️ Emergency Procedures — “ABCD(E)”
+## ⚙️ Emergency Procedures — “ABCDE”
 
 | Step | Action |
 |-------|--------|
