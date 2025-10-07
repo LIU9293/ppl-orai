@@ -98,7 +98,7 @@ Different Class E Spaces:
 * Above: >60000 MSL
 
 
-**Special Use Airspace (特殊空域):**
+**Special Use Airspace**
 | Type           | Rule                                       |
 | -------------- | ------------------------------------------ |
 | **MOA**        | VFR allowed; IFR may be cleared through    |
@@ -244,8 +244,23 @@ Ref: [Aviation SMS Risk Matrix Explanation](https://aviationsafetyblog.asms-pro.
 
 ---
 
+## Left-Turning Tendencies
+https://pilotinstitute.com/left-turning-tendencies-in-airplanes-explained
+- Slipstream
+- Propeller Gyroscopic Precession
+- P-Factor, different aoa of propeller blades
+- Torque
+
 ## Random
 
 - Preventive maintenance per [Part 43 Appendix A(c)](https://www.ecfr.gov/current/title-14/part-43#p-Appendix-A-to-Part-43(c))
 - Sectional + Chart Supplement expire every **56 days**
 - Avoid **Runway Incursions** Brief taxiway diagram, read back, write down
+- Preflight - nwkraft (Notam, weather, known atc delays, runway, alternate, fuel, take off and landing distances)
+- Flight rules, 1000 ft above 2000 ft from buildings etc / suburb area 500 ft / over water no limit but 500 ft above boats / have to climb a altitude that can glide to shoreline
+- AMP with IA (annual)
+- Report NTSB - https://www.ecfr.gov/current/title-49/part-830/subpart-B
+- Two drag: Induce drag, Parasite drag
+- Why ground effect: less induce drag
+
+--
