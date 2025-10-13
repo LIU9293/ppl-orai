@@ -1,7 +1,3 @@
-# Oral Notes
-
----
-
 ## Written Test Incorrect Areas
 
 ### PA.I.A.K1 — Certification Requirements, Recent Flight Experience, and Record Keeping
@@ -24,18 +20,18 @@
 | Act as PIC for non-commercial flight | No hire |
 | Share operating expenses | Only **pro rata share** of fuel, oil, airport, rental fees |
 | Charitable / Nonprofit / Community event flights | Under §91.146, FAA approval required |
-| BasicMed operations | ≤ 6 passengers + pilot, ≤ 12,500 lbs, ≤ 250 KIAS |
+|   | ≤ 6 passengers + pilot, ≤ 12,500 lbs, ≤ 250 KIAS |
 
 ---
 
 ### PA.I.G.K1c — Powerplant and Propeller
 **Ref:** [PHAK Ch. 7](https://www.faa.gov/regulationspolicies/handbooksmanuals/aviation/phak/chapter-7-aircraft-systems)
 
-#### Engine
+Engine
 - **4-stroke cycle:** Intake → Compression → Ignition → Exhaust
 - **Oil functions:** Lubricate, Cool/Heat, Seal, Clean, Actuate (驱动)
 
-#### Left-Turning Tendencies (左转趋势)
+Left-Turning Tendencies
 | Effect | Description |
 |--------|-------------|
 | Torque | Prop rotates CW → aircraft rolls left |
@@ -130,7 +126,13 @@ Different Class E Spaces:
 | Mesosphere | Higher | ↓ | Coldest layer |
 | Thermosphere | > 280,000 ft | ↑ | Aurora region |
 
+### METAR and TAF
+A METAR is a standardized aviation weather report for a specific airport.
+- METAR and SPECI
+- TAF valid for 24 hours, 6 hours renew
+
 ### AIRMET / SIGMET / Convective SIGMET
+Airman's Meteorological Information
 
 | Type | Duration | Conditions |
 |-------|-----------|-------------|
@@ -256,11 +258,10 @@ https://pilotinstitute.com/left-turning-tendencies-in-airplanes-explained
 - Preventive maintenance per [Part 43 Appendix A(c)](https://www.ecfr.gov/current/title-14/part-43#p-Appendix-A-to-Part-43(c))
 - Sectional + Chart Supplement expire every **56 days**
 - Avoid **Runway Incursions** Brief taxiway diagram, read back, write down
-- Preflight - nwkraft (Notam, weather, known atc delays, runway, alternate, fuel, take off and landing distances)
+- Preflight - [nwkraft](https://www.aviamonde.com/nwkraft) (Notam, weather, known atc delays, runway, alternate, fuel, take off and landing distances)
 - Flight rules, 1000 ft above 2000 ft from buildings etc / suburb area 500 ft / over water no limit but 500 ft above boats / have to climb a altitude that can glide to shoreline
-- AMP with IA (annual)
+- AMP with IA (annual check)
 - Report NTSB - https://www.ecfr.gov/current/title-49/part-830/subpart-B
 - Two drag: Induce drag, Parasite drag
 - Why ground effect: less induce drag
-
---
+- Lost : Confess/Circle, Climb, Conserve, Communicate, and Comply
